@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* I will pick another color here */
+
+input {
+  margin: 2rem 3rem;
+  height: 2rem;
+  border-radius: 10px;
+  width: 50%;
+}
+
+h2 {
+  text-align: center;
+  font-size: 3rem;
+}
+
+.status {
+  text-align: center;
+  font-size: 1rem;
+  padding: 0 3rem;
+}
+
+/* .totalEntity {
+  display: none;
+  background-color: red;
+  Width: 50vw;
+} */
